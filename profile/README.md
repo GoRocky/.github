@@ -14,6 +14,8 @@
 ### Andre Dalwin "Drizzy Dre" Tan
 - Junior Dev
 
+## Former Members
+
 ### Justin Carlo "Juicy J" Reyes
 - Intern
 

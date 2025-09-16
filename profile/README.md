@@ -11,6 +11,9 @@
 ### Roman "Mano" Coronel
 - Dev
 
+### Sted "Stud" Cheng
+- Data Analyst
+  
 ### Andre Dalwin "Drizzy Dre" Tan
 - Dev
 

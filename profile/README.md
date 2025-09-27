@@ -14,8 +14,7 @@
 ### Sted "Stud" Cheng
 - Data Analyst
   
-### Andre Dalwin "Drizzy Dre" Tan
-- Dev
+
 
 ### Ross Yvailo "Sex God" Batacan
 - Dev
@@ -23,7 +22,8 @@
   
 ## Former Members
 
+### Andre Dalwin "Drizzy Dre" Tan
+- Dev
+
 ### Justin Carlo "Juicy J" Reyes
 - Intern
-
-## Projects

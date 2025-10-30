@@ -3,24 +3,28 @@
 ## Members
 
 ### Paul Robb
-- VP of Ops and Data
+- COO
 
 ### Chris Melvin Factoriza
-- Dev
+- Software Engineer
 
-### Roman "Mano" Coronel
-- Dev
+### Zoe Aleczandra Pineda
+- Junior Software Engineer
+
+### Led Rhoniel Salazar
+- Junior Software Engineer
 
 ### Sted "Stud" Cheng
 - Data Analyst
   
-
-
 ### Ross Yvailo "Sex God" Batacan
 - Dev
 
   
 ## Former Members
+
+### Roman "Mano" Coronel
+- Solutions Architect
 
 ### Andre Dalwin "Drizzy Dre" Tan
 - Dev

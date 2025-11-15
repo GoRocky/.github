@@ -16,15 +16,15 @@
 
 ### Sted "Stud" Cheng
 - Data Analyst
-  
-### Ross Yvailo "Sex God" Batacan
-- Dev
 
   
 ## Former Members
 
 ### Roman "Mano" Coronel
 - Solutions Architect
+
+### Ross Yvailo "Sex God" Batacan
+- Dev and Technical SEO
 
 ### Andre Dalwin "Drizzy Dre" Tan
 - Dev

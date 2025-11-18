@@ -17,6 +17,9 @@
 ### Sted "Stud" Cheng
 - Data Analyst
 
+### Alex "Yummerz" Reyes
+- Product Design Lead / UX Engineer a.k.a. Vibe Coder
+
   
 ## Former Members
 

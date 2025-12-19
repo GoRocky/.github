@@ -14,6 +14,9 @@
 ### Led Rhoniel Salazar
 - Junior Software Engineer
 
+### Mark Kenneth Calendario
+- Junior Software Engineer
+
 ### Sted "Stud" Cheng
 - Data Analyst
 

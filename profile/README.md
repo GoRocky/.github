@@ -35,5 +35,5 @@
 ### Andre Dalwin "Drizzy Dre" Tan
 - Dev
 
-### Justin Carlo "Juicy J" Reyes
+### [R-e-d-a-c-t-e-d]
 - Intern

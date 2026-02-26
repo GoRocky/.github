@@ -20,8 +20,8 @@
 ### Sted "Stud" Cheng
 - Data Analyst
 
-### Alex "Yummerz" Reyes
-- Product Design Lead / UX Engineer a.k.a. Vibe Coder
+### Alex "Elex" Reyes
+- Senior Product Designer / UX Engineer a.k.a. Vibe Coder
 
   
 ## Former Members

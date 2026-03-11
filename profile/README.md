@@ -17,14 +17,17 @@
 ### Mark Kenneth Calendario
 - Junior Software Engineer
 
-### Sted "Stud" Cheng
-- Data Analyst
-
 ### Alex "Elex" Reyes
 - Senior Product Designer / UX Engineer a.k.a. Vibe Coder
 
+### Andre Dalwin "Drizzy Dre" Tan
+- Health Intelligence & AI
+
   
 ## Former Members
+
+### Sted "Stud" Cheng
+- Data Analyst
 
 ### Roman "Mano" Coronel
 - Solutions Architect
@@ -32,8 +35,5 @@
 ### Ross Yvailo "Sex God" Batacan
 - Dev and Technical SEO
 
-### Andre Dalwin "Drizzy Dre" Tan
-- Dev
-
-### [R-e-d-a-c-t-e-d]
+### Justin Carlo Reyes
 - Intern
